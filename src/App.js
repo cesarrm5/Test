@@ -17,7 +17,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h2>{nombre}</h2>
-        <button onClick={llamaTesi}>Angelica</button>
+        <button onClick={llamaTesi}>TESI</button>
         <button onClick={llamaFabian}>Fabian</button>
       </header>
     </div>
